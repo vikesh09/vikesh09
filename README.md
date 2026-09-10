@@ -6,7 +6,7 @@
 
 - 🛠️ Currently building: Hand Gesture Drone Control (MediaPipe + ANN) & Desktop Gesture Control (real-time CV, no physical input)
 - 🌱 Currently learning: advanced ML pipelines, DSA, and full-stack development
-- 🏆 Codeforces Pupil (Max rating 1221) | LeetCode rating 1458 | 150+ DSA problems solved
+- 🏆 Codeforces Pupil (Max rating 1317) | LeetCode rating 1490 | 800+ DSA problems solved
 - 🌍 Open Source Contributor @ GSSoC (GirlScript Summer of Code)
 - 🎤 Hackathons: Hack the Mind (Sahayak AI), Gemma 4 Good Hackathon (GuruAI — Hinglish learning assistant)
 - ⚡ Fun fact: brain + code = magic ✨
