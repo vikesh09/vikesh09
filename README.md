@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Vikesh! 👋
 
-<!--
-**vikesh09/vikesh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Delhi Technological University (Batch 2025–29)
+🚀 Founder of **Axiom** — a competitive programming contest company for Delhi colleges, going pan-India
+🏆 Competitive Programmer on [Codeforces](https://codeforces.com/profile/vikeshX) — Pupil, grinding towards Expert
+🎓 Bharti Airtel Scholar
 
-Here are some ideas to get you started:
+- 🛠️ Currently building: **CP Nexus** — a React-based competitive programming platform for Delhi colleges
+- 🌱 Currently sharpening: binary lifting, sparse tables, interval DP, game theory
+- 📈 500+ problems solved, running a 2-year+ Codeforces streak
+- 🤝 Looking to collaborate on: contest platforms, competitive programming tools
+- ⚡ Fun fact: college se village aata jaata hoon, par grind kabhi nahi rukta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vikeshX)
